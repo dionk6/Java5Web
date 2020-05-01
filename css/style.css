@@ -111,6 +111,7 @@ input {
 input[type="submit"] {
     width: 30%;
     background-color: #28a745;
+    padding-left: 0;
 } 
 
 footer {
