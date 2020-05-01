@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: #34eb66;
+    background:linear-gradient(to right,#2bf562,#34eb66,#4eee7a);
     margin: 0 auto;
     width: 90%;
 }
@@ -43,7 +43,7 @@ li {
     height: 30px;
     width: 120px;
     border-radius: 10px;
-    background-color: #3294a8;
+    background: linear-gradient(to left,#3294a8,#23a1ba,#48acc0);
     color: white;
     font-size: 15px;
     text-align: center;
@@ -55,8 +55,8 @@ li {
     width: 40%;
     height: auto;
     margin: 50px auto;
-    background-color: #3294a8;
-    border-radius: 20px;
+    background: linear-gradient(to left,#3294a8,#23a1ba,#48acc0);
+    border-radius: 10px;
     padding-bottom: 1px;
 }
 
@@ -79,7 +79,7 @@ button {
     font-size: 18px;
     width: 50%;
     height: 45px;
-    border-bottom: 2px solid gray;
+    border-bottom: 1px solid gray;
     color: white;
 }
 
